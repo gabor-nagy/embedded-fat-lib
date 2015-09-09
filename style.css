@@ -1,0 +1,73 @@
+body
+{
+	font-family: monospace;
+	background-image: url(output_bg.jpg);
+}
+
+br.clear
+{
+	clear: both;
+}
+
+div
+{
+	float: left;
+	width: 20%;
+	border: 2px solid black;
+	margin: 10px;
+	padding: 0.5em;
+}
+
+.sec_boot
+{
+	background-color: #BBE2EC;
+	border-color: #3894E7;
+}
+
+.sec_resvd
+{
+	background-color: #DFDFDF;
+	border-color: #737373;
+}
+
+.sec_fat
+{
+	background-color: #EEA0A2;
+	border-color: #E7383C;
+}
+
+.group_fat
+{
+	clear: both;
+	width: 90%;
+	background-color: #F2D4D7;
+	border-color: #E7383C;
+}
+
+.sec_root
+{
+	background-color: #BBE2EC;
+	border-color: #3894E7;
+}
+
+.group_root
+{
+	clear: both;
+	width: 90%;
+	background-color: #CEF2FB;
+	border-color: #3894E7;
+}
+
+.sec_cluster
+{
+	background-color: #A8FC38;
+	border-color: #7CD803;
+}
+
+.group_cluster
+{
+	clear: both;
+	width: 90%;
+	background-color: #D9FCAB;
+	border-color: #7CD803;
+}
